@@ -1,0 +1,19 @@
+{
+  "name": "Meganetra #68",
+  "description": "Meganetra is a legendary collection of 1000 NFTs forged in the MegaETH realm. Each token signifies a digital relic infused with power, elegance, and uniqueness. Own a piece of the Meganetra legacy.",
+  "image": "ipfs://bafybeifp2xp3bxqvblr5zlsddg2ook746uxzs3nhdfyybybqbb2baef7je",
+  "attributes": [
+    {
+      "trait_type": "Generation",
+      "value": "Genesis"
+    },
+    {
+      "trait_type": "Power Level",
+      "value": "69"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ]
+}
